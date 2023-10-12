@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thalbeflo64
+- 👋 Hi, I’m Thomas
 - 👀 I’m interested in chatbots
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
